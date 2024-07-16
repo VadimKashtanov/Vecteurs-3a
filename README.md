@@ -1,3 +1,5 @@
+3a = Suppression des ENCODEUR+DECODEUR, quelques petits coups de balais, mais rien de plus.
+
 ```
 python3 bitget_donnee.py    #cree le fichier avec les prixs
 sh sh.sh
